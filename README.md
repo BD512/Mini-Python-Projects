@@ -7,5 +7,5 @@
 4. Keep guessing until you get the correct number and try to get it in the fewest possible tries.
 
 #### Please note:
-1. When run, the "mastermind2.py" should show the text as different colours/ thicknesses in the command line. If it does not, it will be due to your interprater not recognising the colour escape codes. 
+1. When run, the "mastermind2.py" should show the text as different colours/ thicknesses in the python console. If it does not, it will be due to your interprater not recognising the colour escape codes and these escape codes may appear as part of the text printed. 
 
