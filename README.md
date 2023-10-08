@@ -1,5 +1,5 @@
 ## Mastermind
-#### Based on the classic mastermind game.
+#### A simple game based on the classic "mastermind" using a command line interface.
 #### Instructions for playing:
 1. Guess a 4 digit number with any of the digits 0, 1, 2, 3, 4, 5, 6 (the digits can be used twice).
 2. You will then be told how many digits you got which were both the correct number and placed correctly and the correct numbers but placed wrongly.
